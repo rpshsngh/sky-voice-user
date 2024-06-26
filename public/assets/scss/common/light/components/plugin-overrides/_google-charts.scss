@@ -1,0 +1,39 @@
+/* Google Charts */
+
+.google-chart-container {
+  .google-charts {
+    overflow: hidden;
+    width: 100%;
+    height: 280px;
+    min-height: 280px;
+    min-width: 100%;
+  }
+}
+
+#morris-line-example {
+  overflow: hidden;
+}
+
+#morris-bar-example {
+  overflow: hidden;
+}
+
+#morris-area-example {
+  overflow: hidden;
+}
+
+#c3-line-chart {
+  overflow: hidden;
+}
+
+#c3-spline-chart {
+  overflow: hidden;
+}
+
+#c3-step-chart {
+  overflow: hidden;
+}
+
+#c3-bar-chart {
+  overflow: hidden;
+}
